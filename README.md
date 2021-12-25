@@ -32,7 +32,7 @@ dataset ที่ใช้ คือ Dataset_Leaf สามารถดาวน
 
 
 # การ prediction
-ใน google colab ทำการcopy path ของ รูปใบไม้ที่ต้องการที่ไดทำการอัปโหลดไว้
+ใน google colab ทำการcopy path ของ รูปใบไม้ที่ต้องการที่ได้ทำการอัปโหลดไว้
 
 ![Screenshot (209)](https://user-images.githubusercontent.com/96648859/147385027-a6d074af-a442-41ac-87eb-04698efad786.png)
 
