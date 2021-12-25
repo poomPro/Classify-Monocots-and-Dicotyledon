@@ -1,4 +1,4 @@
-# Classify-monocots-and-pairs-from-leaves.
+# Classify-monocot and cotyledon-and-pairs-from-leaves.
 
 เป็น model ที่สร้างขึ้นโดยการนใช้ Deep Learning /AI เพื่อใช้ในการทำนายแบ่งแยกระหว่างพืชใบเลี้ยงเดี่ยวและพืชใบเลี้ยงคู่
 Dataset มีข้อมูลรูปภาพ แบ่งเป็นMonocotyledon หรือพืชใบเลี้ยงเดี่ยว และ Dicotyledon  ใบเลี้ยงคู่
