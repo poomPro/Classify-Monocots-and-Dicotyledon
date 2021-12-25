@@ -46,7 +46,7 @@ matplotlib
 
 
 
-#อ้างอิง
+# อ้างอิง
 
 https://www.tensorflow.org/tutorials/images/classification#create_a_dataset
 
