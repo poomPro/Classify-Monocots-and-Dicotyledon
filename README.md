@@ -42,11 +42,11 @@ dataset ที่ใช้ คือ Dataset_Leaf สามารถดาวน
 ![Screenshot (209)](https://user-images.githubusercontent.com/96648859/147385122-979024d8-8553-4ab1-95af-4f96c7dd944c.png)
 
 # installed
-tensorflow
+tensorflow -> https://pypi.org/project/tensorflow/
 
-numpy
+numpy -> https://pypi.org/project/numpy/
 
-matplotlib
+matplotlib -> https://pypi.org/project/matplotlib/
 
 
 
