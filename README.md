@@ -23,7 +23,7 @@ Dataset มีข้อมูลรูปภาพ=แบ่งเป็นMonoc
 
 ![Screenshot (200)](https://user-images.githubusercontent.com/96648859/147384793-a7718638-76e5-488b-9e4c-6b0a656d83ed.png)
 
-#การใช้งานบน editor บนเครื่องที่ติดตั้ง python
+# การใช้งานบน editor บนเครื่องที่ติดตั้ง python
   จะทำการสร้างmodel โดยการ ใช้ไฟล์ create_model.py และได้ไฟล์ model ที่นามสกุลไฟล์.h5 มา จากนั้น
 จากนั้นใช้ไฟล์  predict.py ในการทำนายรูปที่ต้องการโดยการโหลด model ที่ได้จากการสร้างมา 
 
