@@ -41,7 +41,9 @@ Dataset มีข้อมูลรูปภาพ=แบ่งเป็นMonoc
 
 # installed
 tensorflow
+
 numpy
+
 matplotlib
 
 
