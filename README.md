@@ -52,6 +52,12 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![image](https://user-images.githubusercontent.com/95160825/147400511-e7109067-be64-42c9-b98d-4ecfc3e4ad5d.png)
 
+- ใส่ Path ในส่วนด้านหน้าเป็น Path เดียวกันกับ Path ของ โฟลเดอร์ test_leaf ตามภาพ
+
+![image](https://user-images.githubusercontent.com/95160825/147400589-5d1af438-f506-4e66-aa6a-23f44118b717.png)
+
+- กด Run
+
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
 
