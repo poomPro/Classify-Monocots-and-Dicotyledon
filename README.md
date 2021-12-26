@@ -9,7 +9,7 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 ![Screenshot (208)](https://user-images.githubusercontent.com/96648859/147384704-a39379f3-561c-49b5-845e-fcd657f39f67.png)
 
 # Dataset.
-dataset ที่ใช้ คือ Dataset_Leaf ซึ่งในfolder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
+dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
 
 กรณีRun ใน google colab สามารถอัปโหลด folder ไปไว้ใน google drive ได้เลยและทำการเชื่อมต่อ google colab กับ google drive
 
