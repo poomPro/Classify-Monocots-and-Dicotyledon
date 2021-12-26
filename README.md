@@ -8,9 +8,14 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![Screenshot (208)](https://user-images.githubusercontent.com/96648859/147384704-a39379f3-561c-49b5-845e-fcd657f39f67.png)
 
+# Colab
+
+- สร้างโฟลเดอร์ในไดรฟ์ ชื่อ Project นำโฟลเดอร์ Dataset_l
+
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
 
+*
 กรณีRun ใน google colab สามารถอัปโหลด folder ไปไว้ใน google drive ได้เลยและทำการเชื่อมต่อ google colab กับ google drive
 
 ![Screenshot (203)](https://user-images.githubusercontent.com/96648859/147382457-54b053af-7ddb-4dd7-a30b-adb3c1ef0a22.png)
