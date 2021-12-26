@@ -38,6 +38,9 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 - นำไฟล์ Prediction-of-Monocots-and-Dicotyledon.h5 อัปโหลดใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
 
+- ทำการเปิดไฟล์ test_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
+
+![image](https://user-images.githubusercontent.com/95160825/147400207-eafd2c15-836a-48bc-b0de-156f9adf26d5.png)
 
 
 # Dataset.
