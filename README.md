@@ -10,11 +10,11 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 # Colab
 
-- สร้างโฟลเดอร์ในไดรฟ์ ชื่อ Project นำโฟลเดอร์ Dataset_leaf และ Test_leaf ไปใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
+- สร้างโฟลเดอร์ในไดรฟ์ ชื่อ Project นำโฟลเดอร์ Dataset_leaf และ Test_leaf อัปโหลดใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
 
 ![image](https://user-images.githubusercontent.com/95160825/147400035-0e2b1651-437e-4b0d-b061-d0b06e8d22eb.png)
 
-- นำไฟล์ในโฟลเดอร์ Colab ไปใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
+- นำไฟล์ในโฟลเดอร์ Colab ไปอัปโหลดใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
 
 ![image](https://user-images.githubusercontent.com/95160825/147400074-877a02ab-2f44-4811-9110-b7e20d4617a0.png)
 
@@ -28,7 +28,17 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![image](https://user-images.githubusercontent.com/95160825/147400180-aa479d3e-920c-4d6d-b5ca-5175574e3fa3.png)
 
-- ทำการ Run Program
+- ทำการ Run Program เมื่อเสร็จก็จะได้ไฟล์ Model ตามภาพด้านล่าง
+
+![image](https://user-images.githubusercontent.com/95160825/147400343-40fc6a62-b55f-47e7-831f-e645e5c1d7fd.png)
+
+- ดาวน์โหลดไฟล์ Prediction-of-Monocots-and-Dicotyledon.h5
+
+![image](https://user-images.githubusercontent.com/95160825/147400361-bbddb0aa-f6c1-416b-b902-4d39216a806c.png)
+
+- นำไฟล์ Prediction-of-Monocots-and-Dicotyledon.h5 อัปโหลดใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
+
+
 
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
