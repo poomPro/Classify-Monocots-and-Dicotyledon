@@ -9,7 +9,7 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 ![Screenshot (208)](https://user-images.githubusercontent.com/96648859/147384704-a39379f3-561c-49b5-845e-fcd657f39f67.png)
 
 # Dataset.
-dataset ที่ใช้ คือ Dataset_Leaf สามารถดาวน์โหลดได้ที่นี้ ซึ่งในfolder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
+dataset ที่ใช้ คือ Dataset_Leaf ซึ่งในfolder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
 
 กรณีRun ใน google colab สามารถอัปโหลด folder ไปไว้ใน google drive ได้เลยและทำการเชื่อมต่อ google colab กับ google drive
 
@@ -36,7 +36,7 @@ dataset ที่ใช้ คือ Dataset_Leaf สามารถดาวน
 
 ![Screenshot (209)](https://user-images.githubusercontent.com/96648859/147385027-a6d074af-a442-41ac-87eb-04698efad786.png)
 
-ในที่เป็นไฟล์นามสกุล .py ลักษณะคล้ายกันทำการก็อปปี้ที่อยู่ไฟล์มา ใส่ leaf_picture = "ที่อยู่ของไฟล์"
+ในที่เป็นไฟล์นามสกุล .py ลักษณะคล้ายกันทำการ Copy ที่อยู่ไฟล์มา ใส่ leaf_picture = "ที่อยู่ของไฟล์"
 
 ![Screenshot (209)](https://user-images.githubusercontent.com/96648859/147385122-979024d8-8553-4ab1-95af-4f96c7dd944c.png)
 
