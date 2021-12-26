@@ -18,7 +18,7 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![image](https://user-images.githubusercontent.com/95160825/147400074-877a02ab-2f44-4811-9110-b7e20d4617a0.png)
 
-- ทำการเปิดไฟล์ create_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
+- ทำการเปิดไฟล์ create_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
 
 ![image](https://user-images.githubusercontent.com/95160825/147400207-eafd2c15-836a-48bc-b0de-156f9adf26d5.png)
 
@@ -38,10 +38,19 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 - นำไฟล์ Prediction-of-Monocots-and-Dicotyledon.h5 อัปโหลดใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
 
-- ทำการเปิดไฟล์ test_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
+![image](https://user-images.githubusercontent.com/95160825/147400527-d9107344-2b48-43b5-b7a3-63ad6e0d4078.png)
+
+- ทำการเปิดไฟล์ test_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
 
 ![image](https://user-images.githubusercontent.com/95160825/147400207-eafd2c15-836a-48bc-b0de-156f9adf26d5.png)
 
+- ใส่ Path ของไฟล์ Prediction-of-Monocots-and-Dicotyledon.h5 ตามภาพ
+
+![image](https://user-images.githubusercontent.com/95160825/147400479-e28fa720-280c-4b63-91e6-b85bf0b89661.png)
+
+- Copy Path ของโฟลเดอร์ test_leaf มาใส่ในตัวแปร test_leaf_url ตามภาพ
+
+![image](https://user-images.githubusercontent.com/95160825/147400511-e7109067-be64-42c9-b98d-4ecfc3e4ad5d.png)
 
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
