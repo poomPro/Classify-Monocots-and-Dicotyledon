@@ -10,7 +10,23 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 # Colab
 
-- สร้างโฟลเดอร์ในไดรฟ์ ชื่อ Project นำโฟลเดอร์ Dataset_l
+- สร้างโฟลเดอร์ในไดรฟ์ ชื่อ Project นำโฟลเดอร์ Dataset_leaf และ Test_leaf ไปใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
+
+![image](https://user-images.githubusercontent.com/95160825/147400035-0e2b1651-437e-4b0d-b061-d0b06e8d22eb.png)
+
+- นำไฟล์ในโฟลเดอร์ Colab ไปใส่ในโฟลเดอร์ Project ที่สร้างไว้ในไดรฟ์
+
+![image](https://user-images.githubusercontent.com/95160825/147400074-877a02ab-2f44-4811-9110-b7e20d4617a0.png)
+
+- ทำการเปิดไฟล์ create_model.ipynb และทำการเชื่อมต่อกับไดรฟ์
+
+- Copy Path ของโฟลเดอร์ Dataset_leaf มาใส่ในตัวแปร datasetUrl
+
+![image](https://user-images.githubusercontent.com/95160825/147400176-3ac09a28-0328-4168-9c6e-4749e19972e7.png)
+
+![image](https://user-images.githubusercontent.com/95160825/147400180-aa479d3e-920c-4d6d-b5ca-5175574e3fa3.png)
+
+
 
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
