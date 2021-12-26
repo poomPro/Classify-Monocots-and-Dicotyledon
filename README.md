@@ -18,7 +18,9 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![image](https://user-images.githubusercontent.com/95160825/147400074-877a02ab-2f44-4811-9110-b7e20d4617a0.png)
 
-- ทำการเปิดไฟล์ create_model.ipynb และทำการเชื่อมต่อกับไดรฟ์
+- ทำการเปิดไฟล์ create_model.ipynb และทำการเชื่อมต่อกับไดรฟ์ โดยกดกดที่หมายเลข 1 และ 2 ตามภาพด้านล่าง
+
+![image](https://user-images.githubusercontent.com/95160825/147400207-eafd2c15-836a-48bc-b0de-156f9adf26d5.png)
 
 - Copy Path ของโฟลเดอร์ Dataset_leaf มาใส่ในตัวแปร datasetUrl
 
@@ -26,7 +28,7 @@ Dataset มีข้อมูลรูปภาพโดยข้อมูลแ
 
 ![image](https://user-images.githubusercontent.com/95160825/147400180-aa479d3e-920c-4d6d-b5ca-5175574e3fa3.png)
 
-
+- ทำการ Run Program
 
 # Dataset.
 dataset ที่ใช้ คือ Dataset_Leaf ซึ่งใน folder จะประกอบด้วยโฟลเดอร์แยก 2 folder คือ Monocotyledon (ใบเลี้ยงเดี่ยว ) และ Dicotyledon (ใบเลี้ยงคู่) ที่มีภาพใบแต่ละประเภท ประเภทละ 200 รูป
